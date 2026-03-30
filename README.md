@@ -1,85 +1,32 @@
 <div align="center" width="50">
 
-<img src="https://github.com/AlaaAdel/AlaaAdel/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/AlaaAdel/AlaaAdel/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
-
-![Profile Views](https://komarev.com/ghpvc/?username=AlaaAdel&style=flat&color=orange)
+<img src="https://raw.githubusercontent.com/alaabio/alaabio/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://raw.githubusercontent.com/alaabio/alaabio/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 </div>
 
-<hr>
+<hr></hr>
 
-# Hi, I'm Alaa 👋
+![Totals Hits](https://komarev.com/ghpvc/?username=alaabio&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falaabio&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/alaabio-grey?style=flat&logo=telegram)](https://t.me/alaabio007) <br>
 
-💡 Turning biological data into meaningful insights using Data Science  
-🎓 Biotechnology Graduate | Aspiring Data Scientist  
-🧬 Interested in Cancer Research & Immunotherapy  
+<hr></hr>
 
----
-
-## 🚀 About Me
-I am a biotechnology graduate currently **learning Data Science**, with a strong interest in applying data-driven approaches to healthcare challenges.
-
-My goal is to understand and master data and AI techniques that could be applied to cancer research and immunotherapy in the future.
-
----
-
-## 🛠️ Tools I’m Learning
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00599C?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
----
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ```python
-class AlaaAdel:
-    def __init__(self):
-        self.role = "Aspiring Data Scientist"
-        self.background = "Biotechnology"
-        self.focus = "Learning AI & Data Science for Healthcare"
-
-        self.skills_learning = {
-            "Programming": ["Python", "SQL"],
-            "Data Analysis": ["Pandas", "Excel"],
-            "Visualization": ["Power BI"],
-            "Learning": ["Machine Learning", "Data Science"]
-        }
-
-        self.interests = [
-            "Cancer Research",
-            "Immunotherapy",
-            "AI in Medicine"
-        ]
-
-🎯 Goals
-Learn Data Science and its applications in healthcare
-Understand real-world medical datasets
-Gain skills to apply AI in cancer detection and immunotherapy in the future
-📌 Currently Learning
-Python & SQL programming
-Data Analysis with Pandas and Excel
-Data Visualization using Power BI
-Fundamentals of Machine Learning
-📫 Let's Connect
-Open to learning opportunities, internships, and collaborations
-⚡ Fun Fact
-
-Knowledge in data is powerful… learning to use it effectively is the key.
-
-📊 Skills Badges
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-</div>    def mission(self):
-        return "Learn and master data-driven approaches for healthcare"
-        
+# tools_I_use organized
+class AboutAlaa:
+    ProgrammingLanguages = ["Python", "SQL"]
+    Tools = ["Excel", "Pandas", "NumPy", "Matplotlib", "VSCode", "Git"]
+    Platforms = ["Windows", "GNU/Linux", "Mac"]
+    Hobbies = ["Coding", "Fighting Games", "Strength Games"]
